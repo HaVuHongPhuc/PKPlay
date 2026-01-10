@@ -7,4 +7,6 @@
     <string name="login">Đăng nhập</string>
     <string name="Button">loginbtn</string>
     <string name="loginbtn">Đăng nhập</string>
+    <string name="account">Tên đăng nhập/ Số điện thoại</string>
+    <string name="t_n_ng_nh_p_s_i_n_tho_i">Tên đăng nhập/Số điện thoại</string>
 </resources>
